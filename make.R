@@ -1,4 +1,4 @@
-source.dir <- "~/Documents/"
+source.dir <- "/path/to/code/and/data"
 setwd(source.dir)
 
 if(!require(plyr)) {
